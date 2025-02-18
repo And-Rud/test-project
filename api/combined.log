@@ -1,0 +1,8 @@
+2025-02-18T10:01:24.323Z info: Starting order creation for user undefined, product undefined, quantity undefined
+2025-02-18T10:01:24.327Z error: Error creating order: sequelize.transaction is not a function
+2025-02-18T10:03:29.646Z info: Starting order creation for user undefined, product undefined, quantity undefined
+2025-02-18T10:03:29.654Z error: Error creating order: db.transaction is not a function
+2025-02-18T10:04:06.545Z info: Starting order creation for user undefined, product undefined, quantity undefined
+2025-02-18T10:04:06.553Z error: Error creating order: sequelize.transaction is not a function
+2025-02-18T10:04:58.427Z info: Starting order creation for user undefined, product undefined, quantity undefined
+2025-02-18T10:04:58.429Z error: Error creating order: sequelize.transaction is not a function
